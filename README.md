@@ -1,6 +1,6 @@
-# GoMobileJavaScript
+# GoMobile
 
-"JAVASCRIPT 
+JAVASCRIPT 
 
 1ª semana: Introdução ao Javascript, Numbers, Strtings, Booleans, undefined e null	
 
