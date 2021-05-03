@@ -1,23 +1,17 @@
 # GoMobileJavaScript
 
 "JAVASCRIPT 
-(Março a abril)
-Material disponível em aula do Youtube"			
-	1ª semana: Introdução ao Javascript, Numbers, Strtings, Booleans, undefined e null	
 
-Mentoria 1 - apresentação da estrutura + explicação dos desafios de cada módulo + apresentação do desafio final	
-	2ª semana: Object, Functions parte 1, Functions parte 2	
+1ª semana: Introdução ao Javascript, Numbers, Strtings, Booleans, undefined e null	
 
-Mentoria 2	
-	3ª semana: Arrays, Expressões regulares	
+2ª semana: Object, Functions parte 1, Functions parte 2	
 
-Mentoria 3	
-	4ª semana: Arrays, Expressões regulares	
+3ª semana: Arrays, Expressões regulares	
 
-Mentoria 4	
-	5ª Semana - Atividade prática (Dojo) - individual	
+4ª semana: Arrays, Expressões regulares	
+	
+5ª Semana - Atividade prática (Dojo) - individual	
 
-Mentoria da atividade	
 Entrega atividade módulo 1	
 
 Aulas realizadas: https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
